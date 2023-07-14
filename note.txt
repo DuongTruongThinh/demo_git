@@ -1,0 +1,8 @@
+1. git init: khởi tạo repo local
+2. tạo repo online, copy dòng địa chỉ add về terminal git remote add origin https://github.com/DuongTruongThinh/demo_git.git
+Bước 1 và 2 luôn luôn có
+3. add mail và user name chỉ làm 1 lần trên 1 máy tính
+4. đẩy code từ local lên repo: 3 bước
+- chọn: <<git add -A>> +enter
+- meessage: confirm, chức năng của code đưa lên: 
+<<git commit -m "tao ra trang homepage">> + enter (k viết tiếng Việt có dấu)

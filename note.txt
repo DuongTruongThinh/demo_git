@@ -8,3 +8,6 @@ Bước 1 và 2 luôn luôn có
 <<git commit -m "tao ra trang homepage">> + enter (k viết tiếng Việt có dấu)
 - push: git push -u origin master (đưa code lên lần đầu)
 push: git push (đẩy lần 2 trở đi)
+5. tạo nhánh mới từ nhánh hiện tại
+<<git checkout -b tennhanh>>
+6. xem branch hiện có <<git branch>>
